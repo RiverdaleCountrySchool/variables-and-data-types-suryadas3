@@ -37,7 +37,8 @@
 # Advanced Problems
 Create new files for these problems by right clicking on the "src" folder and adding a new Java class.
 
-## Circle.java
+## 
+Circle.java
 *   **Problem:** Write a Java program that declares a variable radius and assigns it a value of your choice. Calculate the area and circumference of a circle with that radius and print the results.
 *   **Expected output:** The area of a circle with radius __ is __ and the circumference is __.
 *   **Hints:** Use the Math.PI constant for the value of pi.
